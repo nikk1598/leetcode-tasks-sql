@@ -18,4 +18,3 @@ class Solution:
             elif x == 'C':
                 record.pop()
         return sum(record)
-
